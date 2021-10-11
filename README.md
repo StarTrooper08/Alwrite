@@ -12,3 +12,14 @@
 5. npm start
 
 Project will run on `localhost:3000`
+
+### Docker Image Creation:
+
+**Note :**  For creating docker image you need to have docker installed)
+
+Docker Installation on Windows guide is [here](https://github.com/StarTrooper08/DockerInstallation)
+
+Command for creating docker image 👇 
+
+ `docker build -t alwrite .`
+
