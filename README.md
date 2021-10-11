@@ -22,3 +22,4 @@ Docker Installation on Windows guide is [here](https://github.com/StarTrooper08/
 Command for creating docker image 👇 
 
  `docker build -t alwrite .`
+ 
